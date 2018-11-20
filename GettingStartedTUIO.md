@@ -23,7 +23,7 @@ This proves that you can detect specific fiducials from reacTIVision.  For your 
 
 Spoiler: 3-5 should only take another 5 minutes.
 3) Download the backend and install the libraries into Processing.  The backend takes the detected input from reacTIVision and does something with it.  There are demos that you can build on:
-(You must install this library into Processing following the *manual* process here https://github.com/processing/processing/wiki/How-to-Install-a-Contributed-Library )
+(You must install this library into Processing following the *manual* process here https://github.com/processing/processing/wiki/How-to-Install-a-Contributed-Library)
 http://prdownloads.sourceforge.net/reactivision/TUIO11_Processing-1.1.5.zip?download
 
 4) Connect frontend to backend: make sure reacTIVision is running and then, in Processing (assuming you installed the library correctly), open File>Examples>Contributed Libraries>TUIO>"TuioDemo".  Run this sketch by clicking the "Play" button.
